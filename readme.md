@@ -1,0 +1,31 @@
+---
+marp: false
+---
+
+<div align='center'>
+
+# Awesome Repositories
+
+A curated list of FREE Resources for economists, to help you in your grad school journey.
+<br>
+
+![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055)
+![Awesome-Repos](https://img.shields.io/badge/Awesome--repos-%23ff0055)
+![GitHub](https://img.shields.io/github/license/pawelborkar/awesome-repos?color=%23ff0055)
+
+</div> <br>
+
+<!-- > _Pull Requests are being welcomed.Please see the [Contributing Guide](CONTRIBUTING.md) before opening a Pull Request._ -->
+
+## Index
+
+-   [🎙️ Podcasts](#podscasts)
+
+### 🎙️ Podcasts
+
+| Repository                                                | Description                                                                                              |
+| --------------------------------------------------------- | ------------------------------------------- |
+| [Capitalisn't](https://www.capitalisnt.com/) | Vanity Fair contributing editor, Bethany McLean and finance professor at the University of Chicago Booth School of Business Luigi Zingales explain how capitalism can go wrong, and what we can do to fix it. |
+| [InequaliTalks](https://inequalitalks.fireside.fm/) | Hosted by  Clémentine Van (University of Toronto), InequaliTalks presents accessible research done by young economists on one of the most pressing issues in the public conversation: inequality.  |
+|[LSE IQ](https://open.spotify.com/show/0gv1QzSH5ciXBTkt6pZpNt)|LSE IQ is a monthly podcast from the London School of Economics and Political Science in which we ask some of the smartest social scientists - and other experts - to answer intelligent questions about economics, politics or society. #LSEIQ|
+**[⬆ Back to Index](#index)**
