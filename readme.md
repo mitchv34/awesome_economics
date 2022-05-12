@@ -21,21 +21,29 @@ A curated list of **FREE** Resources for economists, to help you in your grad sc
 ## Index
 
 - [Books](#books)
+  -[Statistics and Econometrics](#statistics-and-econometrics) 
   - [Misc](#misc)
-- [Programing Languages](#programing-languages)
-- [🎙️ Podcasts](#️-podcasts)
+- [Awesome Economics](#awesome-economics)
+  - [Index](#index)
+  - [Books](#books)
+    - [Statistics and Econometrics](#statistics-and-econometrics)
+    - [Misc](#misc)
+  - [Programing Languages](#programing-languages)
+  - [🎙️ Podcasts](#️-podcasts)
 
 ## Books
-### Misc
+### Statistics and Econometrics
+| Name                                                | Author(s)                                                                                              |
+| --------------------------------------------------------- | ------------------------------------------- |
+|[Advanced Statistical Computing](https://bookdown.org/rdpeng/advstatcomp/)| [Roger D. Peng](https://www.biostat.jhsph.edu/~rpeng/)|
 
+### Misc
 | Name                                                | Author(s)                                                                                              |
 | --------------------------------------------------------- | ------------------------------------------- |
 |[Economic Networks Theory and Computation](https://networks.quantecon.org/)| [John Stachurski](https://johnstachurski.net/) and [Thomas J. Sargent](http://www.tomsargent.com/)|
 
 
 **[⬆ Back to Index](#index)**
-
-
 ## Programing Languages
 
 | Languaje                                                | Best Suited For                                                                                              |
