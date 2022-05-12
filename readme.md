@@ -10,8 +10,9 @@ A curated list of **FREE** Resources for economists, to help you in your grad sc
 <br>
 
 ![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055)
-![Awesome-Repos](https://img.shields.io/badge/Awesome--repos-%23ff0055)
-![GitHub](https://img.shields.io/github/license/pawelborkar/awesome-repos?color=%23ff0055)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<!-- 
+![GitHub](https://img.shields.io/github/license/pawelborkar/awesome-repos?color=%23ff0055) -->
 
 </div> <br>
 
