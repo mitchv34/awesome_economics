@@ -23,13 +23,8 @@ A curated list of **FREE** Resources for economists, to help you in your grad sc
 - [Books](#books)
   -[Statistics and Econometrics](#statistics-and-econometrics) 
   - [Misc](#misc)
-- [Awesome Economics](#awesome-economics)
-  - [Index](#index)
-  - [Books](#books)
-    - [Statistics and Econometrics](#statistics-and-econometrics)
-    - [Misc](#misc)
-  - [Programing Languages](#programing-languages)
-  - [🎙️ Podcasts](#️-podcasts)
+- [Programing Languages](#programing-languages)
+- [🎙️ Podcasts](#️-podcasts)
 
 ## Books
 ### Statistics and Econometrics
