@@ -20,15 +20,14 @@ A curated list of **FREE** Resources for economists, to help you in your grad sc
 
 ## Index
 
-- [Awesome Economics](#awesome-economics)
-  - [Index](#index)
-    - [Books](#books)
-      - [Misc](#misc)
-    - [Programing Languages](#programing-languages)
-    - [🎙️ Podcasts](#️-podcasts)
+- [Books](#books)
+  - [Misc](#misc)
+- [Programing Languages](#programing-languages)
+- [🎙️ Podcasts](#️-podcasts)
 
-### Books
-#### Misc
+## Books
+### Misc
+
 | Name                                                | Author(s)                                                                                              |
 | --------------------------------------------------------- | ------------------------------------------- |
 |[Economic Networks Theory and Computation](https://networks.quantecon.org/)| [John Stachurski](https://johnstachurski.net/) and [Thomas J. Sargent](http://www.tomsargent.com/)|
@@ -37,12 +36,13 @@ A curated list of **FREE** Resources for economists, to help you in your grad sc
 **[⬆ Back to Index](#index)**
 
 
-### Programing Languages
+## Programing Languages
 
 | Languaje                                                | Best Suited For                                                                                              |
 | --------------------------------------------------------- | ------------------------------------------- |
 |<i class="fa fa-julia" aria-hidden="true"></i> [Julia](https://julialang.org/)| Numerical analysis and computational science|
-### 🎙️ Podcasts
+
+## 🎙️ Podcasts
 
 | Name                                                | Description                                                                                              |
 | --------------------------------------------------------- | ------------------------------------------- |
