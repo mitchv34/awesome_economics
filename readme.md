@@ -1,7 +1,3 @@
----
-marp: false
----
-
 <div align='center'>
 
 # Awesome Economics
