@@ -19,6 +19,7 @@ A curated list of **FREE** Resources for economists, to help you in your grad sc
 <!-- > _Pull Requests are being welcomed.Please see the [Contributing Guide](CONTRIBUTING.md) before opening a Pull Request._ -->
 
 ## Index
+
 - [Awesome Economics](#awesome-economics)
   - [Index](#index)
     - [Books](#books)
